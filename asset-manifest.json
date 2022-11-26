@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SlotMachineGameUsingReact/static/css/main.851de042.css",
+    "main.js": "/SlotMachineGameUsingReact/static/js/main.0781c607.js",
+    "index.html": "/SlotMachineGameUsingReact/index.html",
+    "main.851de042.css.map": "/SlotMachineGameUsingReact/static/css/main.851de042.css.map",
+    "main.0781c607.js.map": "/SlotMachineGameUsingReact/static/js/main.0781c607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851de042.css",
+    "static/js/main.0781c607.js"
+  ]
+}
